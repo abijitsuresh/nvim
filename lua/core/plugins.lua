@@ -1,5 +1,6 @@
 require("lazy").setup({
     { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+    { "neanias/everforest-nvim", name = "everforest", priority = 1001 },
     "tpope/vim-commentary",
     "mattn/emmet-vim",
     "nvim-tree/nvim-tree.lua",
