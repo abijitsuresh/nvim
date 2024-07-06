@@ -22,3 +22,4 @@ vim.cmd [[ set termguicolors ]]
 vim.wo.number = true
 vim.opt.number = true
 vim.opt.relativenumber = true
+--vim.o.statuscolumn = "%s %l %r"
